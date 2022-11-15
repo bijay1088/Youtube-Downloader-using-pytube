@@ -55,4 +55,4 @@ match AoV:
     case _:
         print("Please select between 1 and 2 only.\n")
 
-input()
+input("Press any key to exit...")
